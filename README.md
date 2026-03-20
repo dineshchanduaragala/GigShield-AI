@@ -264,3 +264,10 @@ MySQL Database
 - Mobile application development  
 
 ---
+### Example Logic (Claim Trigger)
+
+```java
+if (rainfall > threshold && userActive) {
+    triggerClaim();
+}
+```
