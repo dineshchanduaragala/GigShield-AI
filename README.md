@@ -170,15 +170,6 @@ $$
 
 ---
 
-### Example Logic (Claim Trigger)
-
-```java
-if (rainfall > threshold && userActive) {
-    triggerClaim();
-}
-
----
-
 ### Advanced Fraud Insight
 
 Instead of relying on a single signal, the system combines multiple weak signals:
