@@ -1,0 +1,21 @@
+.form-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 30px;
+  background: white;
+  border-radius: 10px;
+}
+
+form input {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
